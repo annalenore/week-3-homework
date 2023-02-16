@@ -1,0 +1,52 @@
+title{
+    display: none;
+}
+.heading{
+    position: absolute;
+    width: 1395px;
+    height: 306px;
+    left: 170px;
+    top: 100px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 200px;
+    line-height: 360px;
+    text-align: right;
+    color: #F42CE0;
+    z-index: 1;
+    
+    
+    }
+.front{
+position: absolute;
+width: 1920px;
+height: 1080px;
+background: url(background.jpeg);
+background-size: cover;
+}
+.band{
+position: absolute;
+width: 1363px;
+height: 265px;
+left: 27px;
+top: 755px;
+font-family: 'Futura';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 85px;
+color: #F8DAD0;
+}
+.side{
+    position: absolute;
+    width: 381px;
+    height: 150px;
+    left: 1488px;
+    top: 667px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    color: #F42CE0;}
